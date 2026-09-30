@@ -1,0 +1,11 @@
+.my-header{
+    color: #ffffff;
+    background-color: peachpuff;
+}
+.main-item{
+    height: 1000px;
+    background-image: url(../image/toyota.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
